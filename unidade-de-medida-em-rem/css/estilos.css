@@ -1,0 +1,31 @@
+html {
+	font-size: 10px;
+}
+
+.texto {
+	font-size: 2em;
+}
+
+.texto > h1 {
+	font-size: 3em;
+}
+
+.texto p {
+	border: 0.5em solid black;
+	padding: 0.5em;
+	margin-right: 0.5em;
+
+	font-size: 2em;
+}
+
+.texto p span {
+	font-size: 0.5em;
+}
+
+.comentarios {
+	font-size: 2rem; /* 32px */
+}
+
+.comentarios p {
+	font-size: 2rem; /* 64px */
+}
